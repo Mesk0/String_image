@@ -1,5 +1,6 @@
 # String_image
 原图效果
+
 <img src="https://user-images.githubusercontent.com/111946478/219236864-c5b73d94-d655-49e7-b2ec-3507832d5fe2.jpg" width = "268" height = "180" alt="" align=center />
 
 字符画效果
