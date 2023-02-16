@@ -5,7 +5,7 @@
 
 字符画效果
 
-<img src="https://user-images.githubusercontent.com/111946478/219237125-a17b6b80-1f9a-41d9-80f4-08f9c0c48666" width = "268" height = "180" alt="" align=center />
+<img src="https://user-images.githubusercontent.com/111946478/219244975-22ed466a-17b0-4aff-a1f1-11b4f5f16c59.jpeg" width = "268" height = "180" alt="" align=center />
 
 
 ## 实现原理
