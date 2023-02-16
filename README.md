@@ -1,11 +1,11 @@
 # String_image
 原图效果
-
-![messi](https://user-images.githubusercontent.com/111946478/219236864-c5b73d94-d655-49e7-b2ec-3507832d5fe2.jpg)
+<img src="https://user-images.githubusercontent.com/111946478/219236864-c5b73d94-d655-49e7-b2ec-3507832d5fe2.jpg" width = "268" height = "180" alt="" align=center />
 
 字符画效果
 
-![messi_str](https://user-images.githubusercontent.com/111946478/219237125-a17b6b80-1f9a-41d9-80f4-08f9c0c48666.jpeg =268x180)
+<img src="https://user-images.githubusercontent.com/111946478/219237125-a17b6b80-1f9a-41d9-80f4-08f9c0c48666" width = "268" height = "180" alt="" align=center />
+
 
 ## 实现原理
 首先准备一个字符集
