@@ -44,6 +44,7 @@ def get_char(gray):
 
 最终效果图
 
-![messi_str](https://user-images.githubusercontent.com/111946478/219239588-2d69c2a5-161b-41b7-be51-9add229674cb.jpeg)
+<img src="https://user-images.githubusercontent.com/111946478/219239588-2d69c2a5-161b-41b7-be51-9add229674cb.jpeg" width = "268" height = "180" alt="" align=center />
+
 
 > 建议使用浏览器打开字符画文本，记事本打开显示效果不理想
