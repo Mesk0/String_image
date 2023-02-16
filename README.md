@@ -34,7 +34,7 @@ im.save('messi-L.jpg')
 **灰度图效果:**
 
 <div align=center>
-![messi-L](https://user-images.githubusercontent.com/111946478/219238150-195db50f-8447-446d-ac70-7d23ff97788d.jpg)
+<img src="https://user-images.githubusercontent.com/111946478/219238150-195db50f-8447-446d-ac70-7d23ff97788d.jpg" width = "268" height = "180" alt="" align=center />
 </div>
 
 原图属性显示图片一共有268x180个像素，所以我们需要将268x180个像素的灰度值转化为相对应的字符,将灰度值大于240的都转化为空字符，其他的，按比例映射到字符集上
