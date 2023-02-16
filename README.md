@@ -16,7 +16,7 @@ char_set = '''$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\|()1{}[]?-_+~<>i!lI;:,\"
 
 然后调用PIL库，将图片转化为灰度图
 
-````python
+```python
 im = Image.open('messi.jpg')   
 # Image.open对于彩色图像返回后图像模式都为RGB
 # Image.open对于灰度图像，打开后模式都为L
