@@ -5,7 +5,7 @@
 
 字符画效果
 
-![messi_str](https://user-images.githubusercontent.com/111946478/219237125-a17b6b80-1f9a-41d9-80f4-08f9c0c48666.jpeg)
+![messi_str](https://user-images.githubusercontent.com/111946478/219237125-a17b6b80-1f9a-41d9-80f4-08f9c0c48666.jpeg width="268" height="180")
 
 ## 实现原理
 首先准备一个字符集
