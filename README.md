@@ -1,4 +1,4 @@
-# String_image
+# 字符画项目及其实现原理
 **原图效果:**
 
 <div align=center>
