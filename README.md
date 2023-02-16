@@ -1,6 +1,7 @@
 # String_image
 原图效果
 ![messi](https://user-images.githubusercontent.com/111946478/219236864-c5b73d94-d655-49e7-b2ec-3507832d5fe2.jpg)
+
 字符画效果
 ![messi_str](https://user-images.githubusercontent.com/111946478/219237125-a17b6b80-1f9a-41d9-80f4-08f9c0c48666.jpeg)
 ## 实现原理
